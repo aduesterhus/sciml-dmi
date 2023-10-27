@@ -116,4 +116,14 @@
   techniques:
     - interested in supervised learning
   applications:
-    - Data driven models for extreme WL predictions 
+    - Data driven models for extreme WL predictions
+- name: André Düsterhus
+  email: andd@dmi.dk
+  social:
+    github: aduesterhus
+    mastodon: fediscience.org/@aduesterhus
+    twitter: aduesterhus
+  techniques:
+    - interested in supervised learning
+  applications:
+    - Attributions and predictions of regionalised climate
